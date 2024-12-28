@@ -23,19 +23,16 @@ df and uptime for system stats
 ### Screenshots
 Help Command
 </br>
-![{AE0A8B46-79C7-453B-BD02-C35BFBD0F0FC}](https://github.com/user-attachments/assets/7bf719c8-48c0-443f-bc43-dba099bc0213) </br>
+![lin01](https://github.com/user-attachments/assets/be7616c3-8dc7-4a2e-a94e-a843b18c6be6)
+ </br>
 </br>
-
 Version Command
 </br>
-![{929E9D8C-484F-4335-AF31-3030B917C64B}](https://github.com/user-attachments/assets/5d8cd22f-27b0-4dbe-b6fe-a0839ae1062e) </br>
+![lin02](https://github.com/user-attachments/assets/35c9449f-8469-4794-9ba2-bf7efbd86ac7)
+ </br>
 </br>
-
 Disk Usage
 </br>
-![{58772B04-5C5F-45B8-A341-A36FBADE9EEF}](https://github.com/user-attachments/assets/87bc7d26-8c43-4081-845d-668221bc655d) </br>
+![lin03](https://github.com/user-attachments/assets/f074e65c-3695-410b-99e1-0dc8fca869be)
+ </br>
 </br>
-
-
-
-
