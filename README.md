@@ -23,16 +23,16 @@ df and uptime for system stats
 ### Screenshots
 Help Command
 </br>
-![lin01](https://github.com/user-attachments/assets/be7616c3-8dc7-4a2e-a94e-a843b18c6be6)
+<img width="610" alt="Screenshot 2024-12-28 at 10 11 37 PM" src="https://github.com/user-attachments/assets/038ed981-5c63-4a0b-9c52-70e8fbf30b1b" />
  </br>
 </br>
 Version Command
 </br>
-![lin02](https://github.com/user-attachments/assets/35c9449f-8469-4794-9ba2-bf7efbd86ac7)
+<img width="591" alt="Screenshot 2024-12-28 at 10 11 50 PM" src="https://github.com/user-attachments/assets/d1c0d316-1111-4079-a530-71a7476dc696" />
  </br>
 </br>
 Disk Usage
 </br>
-![lin03](https://github.com/user-attachments/assets/f074e65c-3695-410b-99e1-0dc8fca869be)
+<img width="1361" alt="Screenshot 2024-12-28 at 10 12 04 PM" src="https://github.com/user-attachments/assets/d255eec7-fec2-491b-a27e-7f8b30bdc5f4" />
  </br>
 </br>
